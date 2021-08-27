@@ -1,2 +1,0 @@
-# EndlessGame
-First Unity Game
